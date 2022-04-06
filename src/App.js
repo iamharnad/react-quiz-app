@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
       <main>
         <section className='quiz'>
-          <p className='correct-answers'>correct answers: 3</p>
+          <p className='correct-answers'>correct answers: 5</p>
           <article className='container'>
             <h2>text</h2>
             <div className='btn-container'></div>
