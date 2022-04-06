@@ -154,6 +154,26 @@ Form
   width: 100%;
   margin-top: 3rem;
 }
+
+.setup-nav {
+  text-align: center;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ff8c00;
+}
+
+a:active {
+  text-decoration: none;
+}
 /*
 =============== 
 Loading
