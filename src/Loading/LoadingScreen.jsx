@@ -1,11 +1,9 @@
-import React from 'react';
-
-const LoadingScreen = () => {
+const Loading = () => {
   return (
     <main>
-      <div className='loading'>loading screen</div>
+      <div className='loading'></div>
     </main>
   );
 };
 
-export default LoadingScreen;
+export default Loading;
